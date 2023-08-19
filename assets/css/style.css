@@ -1,0 +1,29 @@
+.container {
+  background-image: url("/assets/img/bg.png");
+  background-position: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 100vh;
+}
+.container .navbar {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.0941176471);
+  position: fixed;
+  font-family: "Roboto Condensed", serif;
+}
+.container .navbar ul {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+.container .navbar ul li {
+  color: white;
+  font-size: 1.3rem;
+  letter-spacing: 1.2px;
+  list-style: none;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */

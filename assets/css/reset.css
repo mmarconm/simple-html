@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@200;300;400&family=Barlow:wght@200;400&family=Chivo:wght@100;400&family=DM+Sans&family=Exo&family=Fira+Sans+Condensed:wght@300;400&family=IBM+Plex+Serif:wght@300;400&family=Inconsolata:wght@300;400&family=Josefin+Sans:wght@300&family=Karla:wght@200;400&family=Lato:wght@300;400&family=Maven+Pro&family=Montserrat&family=Noto+Sans+JP:wght@100;400&family=Noto+Sans+Nandinagari&family=Open+Sans:wght@300;400&family=Pathway+Extreme:wght@300;400&family=Poppins:wght@200;400&family=Roboto+Condensed:wght@300;400&family=Roboto:ital,wght@0,400;0,900;1,100;1,300&family=Signika+Negative:wght@300;400&family=Wix+Madefor+Text&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
